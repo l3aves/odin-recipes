@@ -1,0 +1,2 @@
+Ich werde eine Rezept Seite erstellen. Mit dieser Seite werde ich zeigen das mein HTML-Code nicht zu viel Voodoo hat für das was ich tun will.
+Was hab ich denn gelernt, wir werden es sehen ich schreib es dann hier rein wenn ich fertig bin.
